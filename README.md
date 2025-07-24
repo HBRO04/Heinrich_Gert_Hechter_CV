@@ -13,7 +13,8 @@ I am currently a third-year Information Technology student at North-West Univers
 ## Contact  
 - **Phone:** 0784149345  
 - **Email:** Heinhechter7@gmail.com  
-- **LinkedIn:** [www.linkedin.com/in/hein-hechter-242ab8376](www.linkedin.com/in/hein-hechter-242ab8376)  
+- **LinkedIn:** [www.linkedin.com/in/hein-hechter-242ab8376](www.linkedin.com/in/hein-hechter-242ab8376)
+- **GitHub:** [https://github.com/HBRO04?tab=repositories](https://github.com/HBRO04?tab=repositories)
 
 ---
 
